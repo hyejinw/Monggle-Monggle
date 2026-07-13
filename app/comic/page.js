@@ -53,13 +53,13 @@ export default function ComicPage() {
       </header>
 
       {comicSrc ? (
-        <div className="relative z-10 flex min-h-0 flex-1 items-center justify-center overflow-hidden px-5 pb-5">
-          <div className="w-full max-w-[380px] rounded-[34px] border-4 border-[var(--mood-border-color)] bg-white p-2 shadow-[0_18px_45px_rgba(0,0,0,0.08)]">
+        <div className="relative z-10 flex min-h-0 flex-1 items-center justify-center overflow-hidden px-3 pb-3">
+          <div className="w-full max-w-[430px] rounded-[30px] border-2 border-[var(--mood-border-color)] bg-white p-1 shadow-[0_18px_45px_rgba(0,0,0,0.08)]">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
               src={comicSrc}
               alt="몽글이가 만든 네컷 만화"
-              className="mx-auto max-h-[calc(100dvh-190px)] w-full rounded-[24px] object-contain"
+              className="mx-auto max-h-[calc(100dvh-135px)] w-full rounded-[24px] object-contain"
             />
           </div>
         </div>
