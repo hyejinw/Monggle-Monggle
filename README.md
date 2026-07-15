@@ -52,12 +52,6 @@
 ## 화면 예시
 
 <p align="center">
-  <img src="./image/대화/파랑.png" alt="몽글 대화 아이콘" width="120" />
-  <img src="./image/만화/파랑.png" alt="몽글 만화 아이콘" width="120" />
-  <img src="./image/게임/파랑.png" alt="몽글 게임 아이콘" width="120" />
-</p>
-
-<p align="center">
   <img src="./public/comics/four-cut-1.png" alt="4컷 만화 샘플 1" width="160" />
   <img src="./public/comics/four-cut-2.png" alt="4컷 만화 샘플 2" width="160" />
   <img src="./public/comics/four-cut-3.png" alt="4컷 만화 샘플 3" width="160" />
